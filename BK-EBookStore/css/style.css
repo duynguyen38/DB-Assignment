@@ -1,0 +1,33 @@
+.navbar {
+    border-radius: 5px;
+    background-color: #f6f8fb;
+}
+
+.navbar-nav .nav-item:hover {
+    background-color: #b1c9f8;
+    border-radius: 10px;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: black !important;
+    font-weight: bold;
+}
+
+.nav-link.active {
+    font-weight: 700 !important;
+    font-style: monospace !important;
+}
+
+.pdf-list {
+    width: 80%;
+}
+.card {
+    width: 18rem;
+}
+.category .list-group {
+    width: 200px;
+}
+.nd {
+    text-decoration: none;
+}
+
